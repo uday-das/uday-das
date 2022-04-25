@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udayan Das</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-das&label=Profile%20views&color=ffb30f&style=plastic" alt="uday-das" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-das&label=Profile%20views&color=3adb00&style=flat" alt="uday-das" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday-das" alt="uday-das" /></a> </p>
 
