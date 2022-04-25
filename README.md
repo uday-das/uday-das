@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udayan Das</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-das&label=Profile%20views&color=0e75b6&style=flat" alt="uday-das" /> </p>
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=uday-das&" alt="uday-das" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=uday-das&show_icons=true&locale=en&layout=compact" alt="uday-das" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=uday-das&show_icons=true&locale=en&layout=compact" alt="uday-das" />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=uday-das&show_icons=true&locale=en" alt="uday-das" /></p>
