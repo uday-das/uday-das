@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **udayandas272013@gmail.com**
 
-- ⚡ Fun fact **I am a photographer**
-
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
