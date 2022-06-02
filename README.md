@@ -31,6 +31,8 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=uday-das&show_icons=true&theme=merko&locale=en" alt="uday-das" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uday-das&theme=dark" alt="uday-das" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uday-das&show_icons=true&title_color=229ed5&text_color=ffffff&bg_color=011627&locale=en&layout=compact" alt="uday-das" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=uday-das&show_icons=true&title_color=229ed5&text_color=ffffff&bg_color=011627&locale=en&layout=compact" alt="uday-das" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=uday-das&theme=dark" alt="uday-das" /></p>
+
+
