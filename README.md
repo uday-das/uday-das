@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **improving my Web Dev skills.**
 
-- 🌱 I’m currently learning **Data Structures and JavaScirpt**
+- 🌱 I’m currently learning **JavaScirpt and MERN stack**
 
 - 📫 How to reach me **udayandas272013@gmail.com**
 
